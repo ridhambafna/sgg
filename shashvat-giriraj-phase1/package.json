@@ -1,0 +1,42 @@
+{
+  "name": "shashvat-giriraj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "seed:admin": "node scripts/seed-admin.js"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.0.0",
+    "bcryptjs": "^3.0.0",
+    "cloudinary": "^2.0.0",
+    "dotenv": "^18.0.10",
+    "framer-motion": "^12.0.0",
+    "gsap": "^3.0.0",
+    "jose": "^6.2.16",
+    "lucide-react": "^0.500.0",
+    "mongoose": "^8.0.0",
+    "next": "^16.0.0",
+    "next-auth": "^5.0.0-beta",
+    "papaparse": "^5.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.0.0",
+    "sonner": "^2.0.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

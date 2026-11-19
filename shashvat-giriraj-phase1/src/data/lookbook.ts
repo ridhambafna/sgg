@@ -1,0 +1,51 @@
+export const instagramLookbookPosts = [
+  {
+    id: "post-1",
+    caption: "Aarambh 2027 at the foothills of sacred Shatrunjay Giriraj. Sacred morning vibes.",
+    likes: "1.2k",
+    tag: "Giriraj Darshan",
+    gradient: "from-[#2C241E] via-[#4A3B2C] to-[#1E1712]",
+    subtext: "DADA DARSHAN",
+  },
+  {
+    id: "post-2",
+    caption: "Midnight Bhakti Bhavna with Vanigota Brothers. The energy was otherworldly.",
+    likes: "980",
+    tag: "Bhakti Night",
+    gradient: "from-[#211B18] via-[#3D3126] to-[#191411]",
+    subtext: "BHAKTI CONCERT",
+  },
+  {
+    id: "post-3",
+    caption: "Taleti & Babu Derasar Seva Pooja with the Shashvat family. Pure devotion.",
+    likes: "1.5k",
+    tag: "Seva Pooja",
+    gradient: "from-[#332A22] via-[#524131] to-[#251D16]",
+    subtext: "TALETI PUJA",
+  },
+  {
+    id: "post-4",
+    caption: "Come as a traveller, leave as a family. Celebrating togetherness on the train journey.",
+    likes: "870",
+    tag: "Train Bhakti",
+    gradient: "from-[#251E19] via-[#433527] to-[#1D1612]",
+    subtext: "BANDRA TO SONGADH",
+  },
+  {
+    id: "post-5",
+    caption: "Rohishala Aarti under the starlit Palitana sky. Divine peace and stillness.",
+    likes: "2.1k",
+    tag: "Aarti",
+    gradient: "from-[#29221C] via-[#463829] to-[#1B1510]",
+    subtext: "ROHISHALA AARTI",
+  },
+  {
+    id: "post-6",
+    caption: "Climbing the 3,500+ steps with every chant of Navkar. Shetrunjay Tirtha vandana.",
+    likes: "1.8k",
+    tag: "Jatra Moments",
+    gradient: "from-[#2F2720] via-[#4E3E2E] to-[#221B15]",
+    subtext: "SHETRUNJAY VANDANA",
+  },
+];
+
